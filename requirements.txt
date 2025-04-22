@@ -1,0 +1,8 @@
+langchain
+gradio
+openai
+wandb
+python-dotenv
+pinecone-client
+sentence-transformers
+modal
